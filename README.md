@@ -59,4 +59,4 @@ Bu projede kullanılan temel algoritmalar şunlardır:
 * **Bounding Box Kontrolü:** Arabanın park alanı içinde olup olmadığını saptayan geometrik kontrol.
 
 ---
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
+⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayn!
